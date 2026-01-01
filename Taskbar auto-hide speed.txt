@@ -1,0 +1,6 @@
+{
+    "showSpeedup":100,
+    "hideSpeedup":100,
+    "frameRate":90,
+    "oldTaskbarOnWin11":0
+}

@@ -1,0 +1,12 @@
+{
+    "hideVolumeIcon":0,
+    "hideNetworkIcon":0,
+    "hideBatteryIcon":0,
+    "hideMicrophoneIcon":0,
+    "hideGeolocationIcon":0,
+    "hideStudioEffectsIcon":0,
+    "hideLanguageBar":1,
+    "hideLanguageSupplementaryIcons":0,
+    "hideBellIcon":"never",
+    "showDesktopButtonWidth":12
+}

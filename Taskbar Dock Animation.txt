@@ -1,0 +1,11 @@
+{
+    "MaxScale":130,
+    "EffectRadius":100,
+    "SpacingFactor":40,
+    "BounceDelay":100,
+    "AnimationType":0,
+    "FocusDuration":200,
+    "MirrorForTopTaskbar":0,
+    "DisableVerticalBounce":1,
+    "TaskbarLabelsMode":0
+}
